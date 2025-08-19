@@ -13,7 +13,7 @@ A simple console-based Bank Management System built in Java.
 
 ## 📂 Source Code
 All `.java` files are included in this repository.  
-- [View Source Code](https://github.com/your-username/your-repo-name)
+- [View Source Code]()
 
 ## 📑 Project Report
 A detailed **project report (PDF)** has been uploaded for better understanding.  
@@ -21,8 +21,7 @@ A detailed **project report (PDF)** has been uploaded for better understanding.
 
 ## 🎥 Project Demo
 Watch the project demo here:  
-- [▶ On GitHub](demo.mp4) ← (Downloadable if file is large)  
-- [▶ On YouTube](https://youtu.be/your-video-link) ← (Recommended for preview)  
+
 - [▶ On LinkedIn](https://www.linkedin.com/posts/muhammad-nouman-ali-86084a342_project-report-activity-7363559060501094402-_S2X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXpDEgBdNvIsV7eKc7BrtL7OqOegq2znZE) ← (Shared on my profile)
 
 ---
