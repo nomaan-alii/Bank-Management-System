@@ -13,7 +13,7 @@ A simple console-based Bank Management System built in Java.
 
 ## 📂 Source Code
 All `.java` files are included in this repository.  
-- [View Source Code]()
+
 
 ## 📑 Project Report
 A detailed **project report (PDF)** has been uploaded for better understanding.  
@@ -29,7 +29,7 @@ Watch the project demo here:
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  https://github.com/nomaan-alii/Bank-Management-System.git
 
 
   
